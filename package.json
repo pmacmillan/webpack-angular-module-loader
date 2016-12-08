@@ -1,0 +1,11 @@
+{
+  "name": "webpack-angular-module-loader",
+  "main": "index.js",
+  "repository": "pmacmillan/webpack-angular-module-loader",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Peter MacMillan <peter@macmillan.io>",
+  "license": "MIT"
+}
